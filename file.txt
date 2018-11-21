@@ -1,0 +1,4 @@
+test File for learn git base operate
+:!wq
+wq
+i
